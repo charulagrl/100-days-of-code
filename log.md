@@ -7,3 +7,11 @@
 **Thoughts:** It was hard to start initially, seems like I have forgotton everything. Require some revision.
 
 **Link to work:** Not uploaded yet
+
+### Day 1: January 4, 2017
+
+**Today's Progress**: Implemented signup functionality. 
+
+**Thoughts:** Need to do this first thing in the morning. Doing it in late evening doesn't seem very effective. 
+
+**Link to work:** Not uploaded yet

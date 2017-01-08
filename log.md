@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 6, 2017(Updating on Jan 8)
+
+**Today's Progress**: Add cookies and refactor the code to add separation of concerns. 
+
+**Thoughts:** Was able to give only half-an-hour on 6th but compensating for that by working today.
+
 ### Day 2: January 5, 2017
 
 **Today's Progress**: Completed blog creation, deletion and editing functionality.

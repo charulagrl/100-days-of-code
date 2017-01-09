@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 7, 2017(Updating on Jan 9)
+
+**Today's Progress**: Added validation for signup form and more code refactoring.
+
+**Thoughts:** Trying to catch up for the missing days. But having a good progress in the project.
+
 ### Day 3: January 6, 2017(Updating on Jan 8)
 
 **Today's Progress**: Add cookies and refactor the code to add separation of concerns. 

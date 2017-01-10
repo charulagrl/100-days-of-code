@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 8, 2017(Updating on Jan 10)
+
+**Today's Progress**: Created a flow from signup, login to creation of blogs and editing and deletion.
+
+**Thoughts:** Now user can sign-in and create, edit and delete blog posts.
+
 ### Day 4: January 7, 2017(Updating on Jan 9)
 
 **Today's Progress**: Added validation for signup form and more code refactoring.

@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 10, 2017
+** Today's Progress**: Added comments functionality for blog posts
+
+** Thoughts:** Now, I need to work on improving the UI of the app
+
 ### Day 6: January 9, 2017
 ** Today's Progress**: Implemented logout and like functionality
 
